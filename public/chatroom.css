@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+
+#container{
+    display: flex;
+
+}
+#chatspace{
+    /*display: inline-block;*/
+    width: 69%;
+    margin-left: 1%;
+    background-color: bisque;
+}
+
+#connected-users{
+    /*display: inline-block;*/
+    width: 29%;
+    margin-right: 1%;
+    background-color: gainsboro;
+
+}
+
+#connected-users  h3{
+    text-align: center;
+}
+
+#inp{
+    width: 70%;
+}
